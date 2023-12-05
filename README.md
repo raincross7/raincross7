@@ -1,4 +1,4 @@
-## Raincross7가 경험한 것들
+## raincross7가 경험한 것들
 ---
 💻**프로그래밍 언어**
 <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
